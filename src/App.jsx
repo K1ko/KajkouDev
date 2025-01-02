@@ -3,6 +3,9 @@ import Navbar from "./components/Navbar.jsx";
 import Me from "./components/Me.jsx";
 import About from "./components/About.jsx";
 import Techs from "./components/Techs.jsx";
+import Experience from "./components/Experience.jsx";
+import Projects from "./components/Projects.jsx";
+import Contact from "./components/Contact.jsx";
 
 const App = () => {
     return (
@@ -17,6 +20,9 @@ const App = () => {
                 <Me/>
                 <About/>
                 <Techs/>
+                <Experience/>
+                <Projects/>
+                <Contact/>
             </div>
         </div>
     )

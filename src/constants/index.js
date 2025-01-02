@@ -9,9 +9,9 @@ export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer w
 
 export const EXPERIENCES = [
     {
-        year: "2023 - Present",
-        role: "Senior Full Stack Developer",
-        company: "Google Inc.",
+        year: "2024 - Present",
+        role: "Junior Data Scientist",
+        company: "Dôvera Zdravotná Poisťovňa",
         description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
         technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
     },
@@ -70,7 +70,7 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-    address: "767 Fifth Avenue, New York, NY 10153 ",
-    phoneNo: "+12 4555 666 00 ",
-    email: "me@example.com",
+    address: "More in CV ",
+    phoneNo: "+421 944 204 828 ",
+    email: "Kristián Červenka",
 };
